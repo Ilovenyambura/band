@@ -5,6 +5,17 @@ title{
 h1{
   font-style: italic;
   }
-  .important{
-    color:blue;
+.stop{
+    font-family: serif;
+  }
+h4{
+  color: blue;
+  font-family: cursive;
+}
+.me{
+  font-weight: lighter;
+  font-family: sans-serif; 
+}
+h2{
+  font-weight: bold;
 }

@@ -1,4 +1,10 @@
-.intro {
+h2.intro{
+  color: red;
+  font-family: sans-serif;
+  }
+p.intro{
   font-style: italic;
-  font-weight: bold;
 }
+img.intro{
+   align-self: center;
+  }
